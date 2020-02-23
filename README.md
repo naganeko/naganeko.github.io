@@ -1,5 +1,8 @@
 # naganeko.github.io
 
+## [이 겨울이 지나](https://naganeko.github.io/winter-of-dolls/)
+
+- 원본주소 https://gall.dcinside.com/m/bjsn/1976944 
 
 ## [spine-gif](https://naganeko.github.io/spine-gif)
 
