@@ -14,6 +14,11 @@
 - importing Spine3 chibi data and generating animated-gif and apng
 
 
-## [mirr-gif](https://naganeko.github.io/mirr-giff)
+## [mirr-gif](https://naganeko.github.io/mirr-gif)
 
 - importing DragonBones 5.5 chibi data and generating animated-gif and apng
+
+
+## [fun](https://naganeko.github.io/fun/)
+
+- RO-delero of paROdeus
