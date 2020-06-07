@@ -8,6 +8,11 @@
 
 - importing Spine2 chibi data and generating animated-gif and apng
 
+## [chibi-deco](https://naganeko.github.io/chibi-deco)
+
+- importing Spine2 chibi data and decorate them as you wish 
+- [Tutorial@YouTube](https://youtu.be/Sc_bZ5j4NYI)
+
 
 ## [chibi-gif](https://naganeko.github.io/chibi-gif)
 
