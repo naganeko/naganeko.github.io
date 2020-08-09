@@ -13,6 +13,10 @@
 - importing Spine2 chibi data and decorate them as you wish 
 - [Tutorial@YouTube](https://youtu.be/Sc_bZ5j4NYI)
 
+## [chibi-deco-3](https://naganeko.github.io/chibi-deco-3)
+
+- importing Spine3 chibi data and decorate them as you wish 
+
 
 ## [chibi-gif](https://naganeko.github.io/chibi-gif)
 
