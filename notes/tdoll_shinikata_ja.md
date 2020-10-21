@@ -1,9 +1,10 @@
- -  **WARNING: 혐오스런 이미지가 나올 수 있습니다**
+ -  **WARNING: 人により嫌悪なイメージがあります、一応NSFW**
 
-# 戦術人形の死の形 
+# テスト：戦術人形の死の形
 
 - 作成日: 2019.7.5
 - [ko](tdoll_shinikata_ko)  [en](tdoll_shinikata_en) [ja](tdoll_shinikata_ja)  
+ - 日本語まだ下手でなんとかご了承ください。ご指摘はいつでもOKです。
 
 ## はじめに
 
@@ -90,7 +91,6 @@ skeleton データを分析してみた
 
 .
 
-
 .
 
 .
@@ -105,7 +105,6 @@ skeleton データを分析してみた
 
 .
 
-
 ![d4](https://raw.githubusercontent.com/naganeko/naganeko.github.io/master/notes/images/Gsh-18_523_4x_deadeyes_die_75_25_20190705-212154.gif)
 
 
@@ -116,7 +115,9 @@ skeleton データを分析してみた
 
 - SDツールに機能として追加しようと思ったが、やめました。
 
-- 今はやり方さえ忘れてしまい、訊かれても対応できません。
+- 今は作り方さえ忘れてしまい、訊かれても対応できません。
+
+- 去年の私、暇だったかなぁ
 
 
 
