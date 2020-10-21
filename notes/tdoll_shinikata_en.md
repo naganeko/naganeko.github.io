@@ -1,9 +1,10 @@
 
 **WARNING: Creepy images for someone**
 
-# a Test about Deaths of T-Dolls 
+# a Test about Deaths of T-Dolls  
 
 - Date: 2019.7.5
+- [ko](tdoll_shinikata_ko)  [en](tdoll_shinikata_en)
 
 ## Introduction
 
