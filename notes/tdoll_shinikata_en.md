@@ -1,5 +1,5 @@
 
-**WARNING: Creepy images for someone**
+**WARNING: Creepy images, maybe NSFW
 
 # a Test about Deaths of T-Dolls  
 
