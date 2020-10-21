@@ -3,7 +3,7 @@
 # 전술인형의 사망에 대한 고찰 SD 
 
 - 작성일: 2019.7.5
-- [ko](tdoll_shinikata_ko)  [en](tdoll_shinikata_en)
+- [ko](tdoll_shinikata_ko)  [en](tdoll_shinikata_en) [ja](tdoll_shinikata_ja)  
 
 ## 시작
 
