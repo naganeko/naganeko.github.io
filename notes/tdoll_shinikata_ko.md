@@ -29,53 +29,54 @@
 
 
 
+![IDW](https://raw.githubusercontent.com/naganeko/naganeko.github.io/master/notes/images/idw_die_42_25_20190705-213737.gif)
+
 
 한 쪽눈만 바뀌는 경우
 
 
+![UMP45](https://raw.githubusercontent.com/naganeko/naganeko.github.io/master/notes/images/ump45_die_48_25_20190705-213536.gif)
+
+
+`o_o` to `>_<`
 
 
 
-`o_o`
-
-
-
+![G36](https://raw.githubusercontent.com/naganeko/naganeko.github.io/master/notes/images/g36_die_67_25_20190705-213843.gif)
 
 
 뒤냐 앞이냐 차이
 
 
 
-
-최근 만들어진 인형도 마찬가지
-
+![Alma](https://raw.githubusercontent.com/naganeko/naganeko.github.io/master/notes/images/alma_die_47_25_20190705-213349.gif)
 
 
-사망이라기보단 "에고고~!!" 소리 나올 듯한 순화된 모션임.
+최근 만들어진 인형도 마찬가지 (주: 2019년 작성한 글)
 
 
-
+사망이라기보단 "에고고~!!" 😫 소리 나올 듯한 순화된 모션임. 
 
 
 
 
-근데 Gsh-18 만큼은 죽은 눈 표현이 유독 고퀄임.
+### 근데 Gsh-18 만큼은 죽은 눈 표현이 유독 고퀄임.
 
 
-
+![gsh18_die](https://raw.githubusercontent.com/naganeko/naganeko.github.io/master/notes/images/gsh18_die_120_25_20190705-214203.gif)
 
 
 skeleton 까보면
 
 죽은눈용 안구 이미지 따로 만들어서 알파채널까지 바꿔가며 아주 정성들여 만들어졌음
 
-마지막에 >_< 로 바뀌긴 하지만.
+마지막에 `>_<` 로 바뀌긴 하지만.
 
 
 
 
 
-저으기 위 빵갤의 합성은 >_< 를 지운 것 죽은 눈으로 끝남.
+저으기 위 빵갤의 합성은 `>_<` 를 지운 것 죽은 눈으로 끝남.
 
 근데 다소 어설프게 만들어져서
 
@@ -87,12 +88,28 @@ SD툴로 제대로 만들어 보았다
 
 
 
-SD이지만 사람 따라 혐짤일 수 있으니 주의
-
-
+**SD이지만 사람 따라 혐짤일 수 있으니 주의**
 
 
 애니메이션 4번 돌고 정지함 리로드해봐도 됨
+
+
+.
+
+.
+
+.
+
+.
+
+
+
+![d3](https://raw.githubusercontent.com/naganeko/naganeko.github.io/master/notes/images/gsh18-deadeyes_die_120_25_20190705-215024.gif)
+
+.
+
+
+![d4](https://raw.githubusercontent.com/naganeko/naganeko.github.io/master/notes/images/Gsh-18_523_4x_deadeyes_die_75_25_20190705-212154.gif)
 
 
 
