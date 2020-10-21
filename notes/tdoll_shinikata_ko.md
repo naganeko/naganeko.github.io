@@ -28,31 +28,30 @@
 눈이 `o_o` 로 바뀌고 끝은 `>_<` 로 됨
 
 
+* 한 쪽눈만 바뀌는 경우
 
-![IDW](https://raw.githubusercontent.com/naganeko/naganeko.github.io/master/notes/images/idw_die_42_25_20190705-213737.gif)
-
-
-한 쪽눈만 바뀌는 경우
+   ![IDW](https://raw.githubusercontent.com/naganeko/naganeko.github.io/master/notes/images/idw_die_42_25_20190705-213737.gif)
 
 
-![UMP45](https://raw.githubusercontent.com/naganeko/naganeko.github.io/master/notes/images/ump45_die_48_25_20190705-213536.gif)
+* `o_o` to `>_<`
 
-
-`o_o` to `>_<`
+   ![UMP45](https://raw.githubusercontent.com/naganeko/naganeko.github.io/master/notes/images/ump45_die_48_25_20190705-213536.gif)
 
 
 
-![G36](https://raw.githubusercontent.com/naganeko/naganeko.github.io/master/notes/images/g36_die_67_25_20190705-213843.gif)
+* 뒤냐 앞이냐 차이
 
-
-뒤냐 앞이냐 차이
-
-
-
-![Alma](https://raw.githubusercontent.com/naganeko/naganeko.github.io/master/notes/images/alma_die_47_25_20190705-213349.gif)
+   ![G36](https://raw.githubusercontent.com/naganeko/naganeko.github.io/master/notes/images/g36_die_67_25_20190705-213843.gif)
 
 
 최근 만들어진 인형도 마찬가지 (주: 2019년 작성한 글)
+
+
+   ![Alma](https://raw.githubusercontent.com/naganeko/naganeko.github.io/master/notes/images/alma_die_47_25_20190705-213349.gif)
+
+
+
+
 
 
 사망이라기보단 "에고고~!!" 😫 소리 나올 듯한 순화된 모션임. 
