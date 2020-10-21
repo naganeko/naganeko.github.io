@@ -4,7 +4,7 @@
 # a Test about Deaths of T-Dolls  
 
 - Date: 2019.7.5
-- [ko](tdoll_shinikata_ko)  [en](tdoll_shinikata_en)
+- [ko](tdoll_shinikata_ko)  [en](tdoll_shinikata_en) [ja](tdoll_shinikata_ja)  
 
 ## Introduction
 
