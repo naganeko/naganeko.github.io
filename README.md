@@ -25,7 +25,16 @@
 
 - importing DragonBones 5.5 chibi data and generating animated-gif and apng
 
+## [sz soldier](https://naganeko.github.io/sz_soldier/)
 
+- a clone of Psycho Soldier
+- **warning: no ending**
+- key 
+  * d : drop from Drone
+  * ctrl : gun
+  * alt : ball
+  * arrows : move
+  
 ## [fun](https://naganeko.github.io/fun/)
 
 - RO-delero of paROdeus
