@@ -38,7 +38,8 @@
 
 ## [chibi-chess](naganeko.github.io/gfl-chess/)
 
-- chesss
+- chess
+- [Lozza Chess Engine](https://github.com/op12no2/lozza)
 
 ## [fun](https://naganeko.github.io/fun/)
 
