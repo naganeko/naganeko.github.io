@@ -34,7 +34,12 @@
   * ctrl : gun
   * alt : ball
   * arrows : move
-  
+
+
+## [chibi-chess](naganeko.github.io/gfl-chess/)
+
+- chesss
+
 ## [fun](https://naganeko.github.io/fun/)
 
 - RO-delero of paROdeus
