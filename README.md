@@ -6,6 +6,14 @@
 
 - importing Spine2 chibi data and generating animated-gif and apng
 
+## [chibi-combine](https://naganeko.github.io/chibi-combine/)
+
+- combining Spine2 chibi data and export json and atlas files
+
+## [chibi-gif](https://naganeko.github.io/chibi-gif)
+
+- importing Spine3 chibi data and generating animated-gif and apng
+
 ## [chibi-deco](https://naganeko.github.io/chibi-deco)
 
 - importing Spine2 chibi data and decorate them as you wish 
@@ -14,12 +22,6 @@
 ## [chibi-deco-3](https://naganeko.github.io/chibi-deco-3)
 
 - importing Spine3 chibi data and decorate them as you wish 
-
-
-## [chibi-gif](https://naganeko.github.io/chibi-gif)
-
-- importing Spine3 chibi data and generating animated-gif and apng
-
 
 ## [mirr-gif](https://naganeko.github.io/mirr-gif)
 
