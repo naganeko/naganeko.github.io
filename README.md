@@ -45,7 +45,7 @@
   * arrows : move
 
 
-## [chibi-chess](naganeko.github.io/gfl-chess/)
+## [chibi-chess](https://naganeko.github.io/gfl-chess/)
 
 - chess
 - [Lozza Chess Engine](https://github.com/op12no2/lozza)
