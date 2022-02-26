@@ -1,4 +1,4 @@
-# naganeko.github.io
+# naganeko works
 
   <div style="text-align: center;">
     <a href='https://ko-fi.com/O4O71EJ86' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
@@ -9,28 +9,28 @@
 
 # Apps
 
-## [spine-gif](https://naganeko.github.io/spine-gif)
+## [spine-gif](https://naganeko.pages.dev/spine-gif)
 
 - importing Spine2 chibi data and generating animated-gif and apng
 
-## [chibi-combine](https://naganeko.github.io/chibi-combine/)
+## [chibi-combine](https://naganeko.pages.dev/chibi-combine/)
 
 - combining Spine2 chibi data and export json and atlas files
 
-## [chibi-gif](https://naganeko.github.io/chibi-gif)
+## [chibi-gif](https://naganeko.pages.dev/chibi-gif)
 
 - importing Spine3 chibi data and generating animated-gif and apng
 
-## [chibi-deco](https://naganeko.github.io/chibi-deco)
+## [chibi-deco](https://naganeko.pages.dev/chibi-deco)
 
 - importing Spine2 chibi data and decorate them as you wish 
 - [Tutorial@YouTube](https://youtu.be/Sc_bZ5j4NYI)
 
-## [chibi-deco-3](https://naganeko.github.io/chibi-deco-3)
+## [chibi-deco-3](https://naganeko.pages.dev/chibi-deco-3)
 
 - importing Spine3 chibi data and decorate them as you wish 
 
-## [mirr-gif](https://naganeko.github.io/mirr-gif)
+## [mirr-gif](https://naganeko.pages.dev/mirr-gif)
 
 - importing DragonBones 5.5 chibi data and generating animated-gif and apng
 
@@ -50,7 +50,7 @@
 - chess
 - [Lozza Chess Engine](https://github.com/op12no2/lozza)
 
-## [fun](https://naganeko.github.io/fun/)
+## [fun](https://naganeko.pages.dev/fun/)
 
 - RO-delero of paROdeus
 
